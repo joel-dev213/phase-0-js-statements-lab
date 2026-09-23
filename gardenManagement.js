@@ -14,10 +14,10 @@ else{
 //Garden lights control
 
 if (timeOfDay === "morning" || timeOfDay === "night") {
-    console.log("lights on");
+    console.log("Lights on");
 }
 else{
-    console.log("lights off");
+    console.log("Lights off");
 }
 
 //soil moisture adjustment
